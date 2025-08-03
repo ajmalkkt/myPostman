@@ -1,6 +1,6 @@
 # myPostman
 
-myPostman is a minimalistic REST API testing tool inspired by [Postman](https://www.postman.com/), designed for quick and easy API requests and response inspection. It helps developers and testers send HTTP requests, view responses, and debug RESTful services without the overhead of complex tools.
+myPostman is a minimalistic REST API testing tool inspired by [Postman](https://www.postman.com/), designed for quick and easy API requests and response inspection for local development testing. It helps developers and testers send HTTP requests, view responses, and debug RESTful services without the overhead of complex tools.
 
 ## Features
 
@@ -14,8 +14,8 @@ myPostman is a minimalistic REST API testing tool inspired by [Postman](https://
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (if this is a Node.js project)
-- Or follow the specific setup for your tech stack
+- Web Browser that can execute JS ;)
+- Simply download and open the file in browser, Hurray ^^^ you are all set!!!!
 
 ### Installation
 
