@@ -96,3 +96,5 @@ This project is licensed under the MIT License.
 
 - Inspired by [Postman](https://www.postman.com/)
 - Built with ❤️ by [ajmalkkt](https://github.com/ajmalkkt)
+
+© 2025 ajmalkkt. All rights reserved.
